@@ -1,15 +1,15 @@
 # Twitter API: Tweet anzeigen
 So zeigt ihr mithilfe der Twitter API einen Tweet in eurer App an.
 
-- <a href="" target="_blank" >Tutorial auf YouTube</a>
+- <a href="https://www.youtube.com/watch?v=KhH1kZOoO_Y" target="_blank" >Tutorial auf YouTube</a>
 - Projekt für Android Studio
 
 ---
-
+Twitter API Reihe:
 - Teil 1: [YouTube](https://www.youtube.com/watch?v=8Rv3IrCAKs8) / [GitHub](https://github.com/derAndroidPro/Twitter-API_SignInTutorial)
 - Teil 2: [YouTube](https://www.youtube.com/watch?v=TAYlSVEAmRc) / [GitHub](https://github.com/derAndroidPro/TwitterAPI_Tweet_Text_Tutorial)
 - Teil 3: [YouTube](https://www.youtube.com/watch?v=Dw1MJL17x24) / [GitHub](https://github.com/derAndroidPro/Twitter-API_Tweet_Image_Tutorial)
-- Teil 4: [YouTube]() / [GitHub](https://github.com/derAndroidPro/Twitter-API_Display_Tweet)
+- Teil 4: [YouTube](https://www.youtube.com/watch?v=KhH1kZOoO_Y) / [GitHub](https://github.com/derAndroidPro/Twitter-API_Display_Tweet)
 
 ---
 
